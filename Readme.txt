@@ -1,5 +1,5 @@
 MANUAL: 
 1) Unzip all files from archive 
 2) Password: 1234
-3) Go to folder Setup_x64
+3) Go to folder VersionRelease
 4) Run file: Setup_x64.exe
